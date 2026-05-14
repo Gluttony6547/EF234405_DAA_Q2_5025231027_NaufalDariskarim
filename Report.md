@@ -51,7 +51,7 @@ User Input
             ┌─────────────────────────┐
             │  Greedy Algorithm        │
             │  (runs on every change)  │
-            │                         │
+            │                          │
             │  1. Compute net balances │
             │  2. Separate debtors /   │
             │     creditors            │
