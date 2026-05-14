@@ -1,4 +1,8 @@
 # Cash Flow Minimizer — Quiz 2 Report
+
+<img width="1900" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0a6fc57-0a18-44da-b44f-8e31ef333f39" />
+
+
 **Course:** Design and Analysis of Algorithms (DAA)  
 **Student:** Naufal Dariskarim — 5025231027
 
